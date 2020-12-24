@@ -1,7 +1,7 @@
 # California-House-Price-prediction-
 Housing Price Prediction using: 
 
-1.	Linear Regression
+1.	LINEAR REGRESSION
 2.	RIDGE REGRESSION
 3.	LASSO REGRESSION
 4.	ELASTIC NET REGRESSION
